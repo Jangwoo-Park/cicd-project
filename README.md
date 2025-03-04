@@ -1,3 +1,16 @@
+# Vite + React 프로젝트 GitHub Pages에 자동 배포 프로잭트 [CI_CD]
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
